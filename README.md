@@ -1,2 +1,3 @@
 # demo1
-just a demo
+voitng system 
+using jsp servlet 

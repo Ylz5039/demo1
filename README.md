@@ -1,3 +1,3 @@
 # demo1
 voitng system 
-using jsp servlet 
+using jsp
